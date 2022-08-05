@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Leanne",
+      "last_name": "Graham",
+      "email": "leannegra@gmail.com",
+      "password": "165fsd1965"
+    },
+    {
+      "id": 2,
+      "first_name": "Ervin",
+      "last_name": "Howell",
+      "email": "erwinhho@gmail.com",
+      "password": "225fsdf654erf5"
+    },
+    {
+      "id": 3,
+      "first_name": "Clementine",
+      "last_name": "Bauch",
+      "email": "clembauch32@hotmail.com",
+      "password": "deddfg884e"
+    },
+    {
+      "id": 4,
+      "first_name": "Patricia",
+      "last_name": "Lebsack",
+      "email": "patrileb00_gh@gmail.com",
+      "password": "loppf65s1f"
+    }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "name": "Shrim 160",
+      "price": 181.50,
+      "category": "Industrial"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Thigh",
+      "price": 205.50,
+      "category": "Food"
+    }
+  ]
+}
