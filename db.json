@@ -27,6 +27,76 @@
       "last_name": "Lebsack",
       "email": "patrileb00_gh@gmail.com",
       "password": "loppf65s1f"
+    },
+    {
+      "id": 5,
+      "first_name": "Chelsey",
+      "last_name": "Dietrich",
+      "email": "dietrich3432465@gmail.com",
+      "password": "1465E4FHB"
+    },
+    {
+      "id": 6,
+      "first_name": "Mrs. Dennis",
+      "last_name": "Russel",
+      "email": "mrs_DennIS-jr@gmail.com",
+      "password": "1f65sdfg"
+    },
+    {
+      "id": 7,
+      "first_name": "Billie",
+      "last_name": "Murdough",
+      "email": "labillineta@microsoft.com",
+      "password": "loeppcdffwg"
+    },
+    {
+      "id": 8,
+      "first_name": "Mae",
+      "last_name": "Lebsack",
+      "email": "maeleb@gmail.com",
+      "password": "maeleb123"
+    },
+    {
+      "id": 9,
+      "first_name": "Nicholas",
+      "last_name": "Dooley",
+      "email": "nicodooley@gmail.com",
+      "password": "nic00odoo0ley953"
+    },
+    {
+      "id": 10,
+      "first_name": "Glenna",
+      "last_name": "Reichert",
+      "email": "glennanicole@gmail.com",
+      "password": "58784_4weofw_Glenna3"
+    },
+    {
+      "id": 11,
+      "first_name": "Tesha",
+      "last_name": "Buzzeo",
+      "email": "teshabbuzzz@gmail.com",
+      "password": "teshabbuzzz123"
+    },
+    {
+      "id": 12,
+      "first_name": "Roberto",
+      "last_name": "Herrera",
+      "email": "robertofhyherrera@gmail.com",
+      "password": "robertfyherrera"
+    },
+    {
+      "id": 13,
+      "first_name": "Cristopher",
+      "last_name": "Krajcik",
+      "email": "cristokrakra@gmail.com",
+      "password": "cristokrakra4fsf"
+    },
+    {
+      "id": 14,
+      "first_name": "Sherry",
+      "last_name": "Arevalo",
+      "email": "sherryarevalo@gmail.com",
+      "password": "Sherry-AREVALO_48984"
     }
   ],
   "products":[
@@ -41,6 +111,120 @@
       "name": "Chicken Thigh",
       "price": 205.50,
       "category": "Food"
-    }
+    },
+    {
+      "id": 3,
+      "name": "69 Special",
+      "price": 128.00,
+      "category": "Drink"
+    },
+    {
+      "id": 4,
+      "name": "TouchPad",
+      "price": 99.90,
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Ultra Strawberries Cake",
+      "price": 106.00,
+      "category": "Food"
+    },
+    {
+      "id": 6,
+      "name": "Adam & Eve",
+      "price": 153.80,
+      "category": "Drink"
+    },
+    {
+      "id": 7,
+      "name": "Laptop Bag",
+      "price": 28.90,
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Hawaiian Pizza",
+      "price": 85.00,
+      "category": "Food"
+    },
+    {
+      "id": 9,
+      "name": "Kincaid",
+      "price": 188.60,
+      "category": "Industrial"
+    },
+    {
+      "id": 10,
+      "name": "Coffee Mug",
+      "price": 65.20,
+      "category": "Drink"
+    },
+    {
+      "id": 11,
+      "name": "38 Special",
+      "price": 116.15,
+      "category": "Industrial"
+    },
+    {
+      "id": 12,
+      "name": "Rost Beef Steak",
+      "price": 74.50,
+      "category": "Food"
+    },
+    {
+      "id": 13,
+      "name": "Addison",
+      "price": 165.40,
+      "category": "Drink"
+    },
+    {
+      "id": 14,
+      "name": "Camera Kignma",
+      "price": 99.90,
+      "category": "Electronics"
+    },
+    {
+      "id": 15,
+      "name": "Pasta Extra Sauce",
+      "price": 82.00,
+      "category": "Food"
+    },
+    {
+      "id": 16,
+      "name": "Black Widow",
+      "price": 110.80,
+      "category": "Drink"
+    },
+    {
+      "id": 17,
+      "name": "Industrial Baby",
+      "price": 133.00,
+      "category": "Industrial"
+    },
+    {
+      "id": 18,
+      "name": "Bisteck Steak",
+      "price": 122.20,
+      "category": "Food"
+    },
+    {
+      "id": 19,
+      "name": "Console Kignma",
+      "price": 153.44,
+      "category": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "Express Delivery",
+      "price": 96.36,
+      "category": "Drink"
+    },
+    {
+      "id": 21,
+      "name": "Mister Sandman",
+      "price": 69.61,
+      "category": "Industrial"
+    }    
   ]
 }
